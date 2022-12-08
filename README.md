@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnanyaSDhar
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Machine Learning 
+
 
 
 <!---
